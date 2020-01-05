@@ -5,13 +5,35 @@ Class*icle* is a Natural Language Processing project that can classify your arti
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ## Demo
-- gif 
+- gif
 
-## Usage
-- screen shots
+## How to use class*ical*
+1. Clone this project and cd into the classifybutton folder
+```
+$ git clone https://github.com/EzzEddin/classicle.git
+$ cd classifybutton
+```
+
+2. Using python3, run the following:
+```
+$ python3 manage.py runserver 127.0.0.1:8002
+```
+3. Go to the browser and write the server link, in the url, that you specified in the last command `127.0.0.1:8002`
+4. The page you saw at the demo will apear so you can put your article in there to classify
+
+## How class*ical* works
+Class*ical* is a project run on a *django* server just by clicking on *classify* button, it will run the python script which has the deep learning model 
+
+
+## Setup
+Install dependencies:
+- tensorflow
+- numpy 
+- csv
+- wget (optional)
 
 ## Data
-The data I used for training is bbc-news-articles available [here](http://mlg.ucd.ie/datasets/bbc.html).
+The data I used for training and testing is bbc-news-articles available [here](http://mlg.ucd.ie/datasets/bbc.html).
 
 `<addr>`
 ```
