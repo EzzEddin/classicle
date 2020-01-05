@@ -1,5 +1,5 @@
 # Class*icle* :book:
-Class*icle* is a Natural Language Processing project that can classify articles out of five classes: business, entertainment, politics, sport, tech. It is read like _classical_ and it is a merge between the prefix of **class**ify and the suffix of art**icle**.
+Class*icle* is a Natural Language Processing project that can classify your article out of five classes: business, entertainment, politics, sport, tech. It is read like _classical_ and it is a merge between the prefix of **class**ify and the suffix of art**icle**.
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ## Demo
