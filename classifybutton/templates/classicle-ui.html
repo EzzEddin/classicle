@@ -1,0 +1,46 @@
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis"></script>
+    <style>
+        #title_icle { font-style: italic; }
+        h1 {
+            text-align: center;
+            color: #06f;
+            font-family: "Times New Roman";
+            font-size: 50;
+        }
+        #sb {
+            padding: 0.5em;
+            font-family: "Arial";
+            color: #06f;
+            font-weight: bold;
+        }
+        body {
+	    text-align: center;
+	    /*background-color: #f6f6f6;*/
+        }
+        textarea {
+        font-family: "Arial";
+        color: black;
+        }
+        #result {
+	    font-weight: bold;
+        color: #06f;
+        }
+    </style>
+</head>
+<body>
+    <header>
+       <h1><span id="title_class">Class</span><span id="title_icle">icle</span></h1>
+       <p>Using a Deep Learning model, Class<i>icle</i> can classify your article into<br>
+       "business", "entertainment", "politics", "sport", or "tech".</p>
+    </header>
+    <form action="/external/" method="post">
+	{% csrf_token %}
+	<textarea placeholder="Please, put the article you want to classify" rows="15" cols="70" name="param" required></textarea>
+	<p id='result'>{{result}}</p>
+	<input type="submit" value="Classify" id="sb" size="60">
+    </form>
+</body>
+</html>
