@@ -3,9 +3,8 @@
 # Class*icle* :book:
 Class*icle* is a Natural Language Processing project that can classify your article out of five classes: business, entertainment, politics, sport, tech. It is read like _classical_ and it is a merge between the prefix of **class**ify and the suffix of art**icle**.
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ## Demo
-- gif
+
 
 ## How to use class*ical*
 1. Clone this project and cd into the classifybutton folder
@@ -28,25 +27,14 @@ Class*ical* is a project run on a *django* server just by clicking on *classify*
 ## Setup
 Install dependencies:
 - tensorflow
+- keras
+- pickle
 - numpy 
 - csv
 - wget (optional)
 
 ## Data
-The data I used for training and testing is bbc-news articles available [here](http://mlg.ucd.ie/datasets/bbc.html). 
-
-
-- [x] this is a complete item
-- [ ] this is incomplete item
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-~~this~~
+The data I used for training and testing is bbc-news articles available [here](http://mlg.ucd.ie/datasets/bbc.html).
 
 ## License
 
