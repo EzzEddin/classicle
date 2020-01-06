@@ -37,8 +37,9 @@ Install dependencies:
 The data I used for training and testing is bbc-news articles available [here](http://mlg.ucd.ie/datasets/bbc.html).
 
 ## Acknowledgements
-The deployment and deep learning model in this project are inspired by [Browser-based Models with TensorFlow.js course] (https://www.coursera.org/learn/browser-based-models-tensorflow/home/welcome) and [Natural Language Processing in TensorFlow] (https://www.coursera.org/learn/natural-language-processing-tensorflow/home/welcome) while running the python script by a click on a button at django server is inspired by this [blog] (https://www.hackanons.com/2019/04/run-python-script-on-clicking-html.html).
-I also want to thank my friend Nour for answering my questions whether in development or testing. Thank you, [guru] (https://github.com/noureddin)
+The deployment and deep learning model in this project are inspired by [Browser-based Models with TensorFlow.js course](https://www.coursera.org/learn/browser-based-models-tensorflow/home/welcome) and [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow/home/welcome) while running the python script by a click on a button at django server is inspired by this [blog](https://www.hackanons.com/2019/04/run-python-script-on-clicking-html.html).
+I also want to thank my friend Nour for answering my questions whether in development or testing. Thank you, [guru](https://github.com/noureddin)
+
 
 ## License
 MIT, Copyright (C) 2020 by Ezz El Din Abdullah
