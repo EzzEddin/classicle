@@ -26,6 +26,7 @@ Class*icle* is a project run on a django server just by clicking on *classify* b
 
 ## Setup
 Install dependencies:
+- django
 - tensorflow
 - keras
 - pickle
