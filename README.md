@@ -6,7 +6,7 @@ Class*icle* is a Natural Language Processing project that can classify your arti
 ## Demo
 ![classicle_demo](https://user-images.githubusercontent.com/11898152/71850472-08b1d800-30dd-11ea-964d-aea73a131f95.gif)
 
-## How to use class*ical*
+## How to use class*icle*
 1. Clone this project and cd into the classifybutton folder:
 ```
 $ git clone https://github.com/EzzEddin/classicle.git
