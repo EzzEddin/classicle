@@ -20,11 +20,7 @@ $ python3 manage.py runserver 127.0.0.1:8002
 3. Go to the browser and write the server link, in the url, that you specified in the last command `127.0.0.1:8002`
 4. The page you saw at the demo will apear so you can put your article in there to classify.
 
-## How class*icle* works
-Class*icle* is a project run on a django server just by clicking on *classify* button, it will run the python script which has the deep learning model.
-
-
-## Setup
+### Setup
 Install dependencies:
 - django
 - tensorflow
@@ -33,6 +29,9 @@ Install dependencies:
 - numpy 
 - csv
 - wget (optional)
+
+## How class*icle* works
+Class*icle* is a project run on a django server just by clicking on *classify* button, it will run the python script which has the deep learning model.
 
 ## Data
 The data I used for training and testing is bbc-news articles available [here](http://mlg.ucd.ie/datasets/bbc.html).
