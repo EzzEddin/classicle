@@ -4,7 +4,7 @@
 Class*icle* is a Natural Language Processing project that can classify your article out of five classes: business, entertainment, politics, sport, tech. It is read like _classical_ and it is a merge between the prefix of **class**ify and the suffix of art**icle**.
 
 ## Demo
-Class*icle* demo is now on my [youtube channel] (https://www.youtube.com/watch?v=qkPFRTR8QfQ)
+Class*icle* demo is now on my [youtube channel](https://www.youtube.com/watch?v=qkPFRTR8QfQ)
 ![classicle_demo](https://user-images.githubusercontent.com/11898152/71850472-08b1d800-30dd-11ea-964d-aea73a131f95.gif)
 
 ## How to use class*icle*
