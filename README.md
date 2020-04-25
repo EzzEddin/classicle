@@ -11,6 +11,7 @@ Class*icle* demo is now on my [youtube channel](https://www.youtube.com/watch?v=
 1. Clone this project and cd into the classifybutton folder:
 ```
 $ git clone https://github.com/EzzEddin/classicle.git
+$ cd classicle
 $ cd classifybutton
 ```
 
