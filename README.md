@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 # Class*icle* :book:
-Class*icle* is a Natural Language Processing project that can classify your article out of five classes: business, entertainment, politics, sport, tech. It is read like _classical_ and it is a merge between the prefix of **class**ify and the suffix of art**icle**.
+Class*icle* is a Natural Language Processing project that can classify your article out of five classes: business, entertainment, politics, sport, tech. It is read like _classical_ and it is a portmanteau word -- a blend of **class**ify and art**icle**.
 
 ## Demo
 Class*icle* demo is now on my [youtube channel](https://www.youtube.com/watch?v=qkPFRTR8QfQ)
